@@ -1,0 +1,11 @@
+### Proyecto final de Lenguajes y Técnicas de Programación III
+Carrera de Licenciatura en Educación Informática.
+
+El municipio especial Isla de la Juventud se prepara para el próximo campeonato nacional de
+atletismo en la categoría sub18. La dirección del INDER le ha solicitado al departamento de
+informática elaborar una aplicación de escritorio para el control de los atletas de este deporte.
+El sistema debe permitir el registro de cada atleta (nombre del paciente, altura, peso, sexo y
+modalidad en que compite) y debe ser capaz de mostrar los siguientes reportes:
+
+----
+
